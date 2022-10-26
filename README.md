@@ -3,7 +3,7 @@
 </div>
 
 <div id="badges">
-  <a href="www.linkedin.com/in/Emily-Priyadarshini-013681253">
+  <a href="www.linkedin.com/in/emily-priyadarshini-013681253">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
@@ -22,3 +22,14 @@
 <div align="center">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="480" height="360"/>
 </div>
+
+---
+
+### :woman_technologist: About Me :
+Undergraduate at The Indian Institute of Science Education & Research, Pune, India.
+
+- :book: My academic interests involve studying Applied Mathematics, particularly Probability and Statistics, Combinatorics, and Data Science.
+
+- :seedling: Exploring applications of Electronics in Automation and Robotics.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/emily-priyadarshini-013681253)
