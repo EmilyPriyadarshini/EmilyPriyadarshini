@@ -26,9 +26,7 @@ Undergraduate at The Indian Institute of Science Education & Research, Pune, Ind
 
 - :book: My academic interests involve studying Applied Mathematics, particularly Probability and Statistics, Combinatorics, and Data Science.
 
-- :seedling: Exploring applications of Electronics in Automation and Robotics.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/emily-priyadarshini-013681253)
+- :robot: Exploring applications of Electronics in Automation and Robotics.
 
 
 ---
