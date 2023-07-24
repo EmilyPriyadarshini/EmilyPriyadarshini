@@ -24,7 +24,7 @@ Undergraduate at The Indian Institute of Science Education & Research, Pune, Ind
 
 ---
 
-### :hammer_and_wrench: Languages and Tools :
+### Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
@@ -35,5 +35,5 @@ Undergraduate at The Indian Institute of Science Education & Research, Pune, Ind
 
 ---
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmilyPriyadarshini&theme=dark&background=000000)](https://git.io/streak-stats)
