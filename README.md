@@ -1,7 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/7WrjgQ21tan8cuyxMX/giphy.gif" width="100"/>
-</div>
-
 <div id="badges">
   <a href="https://www.linkedin.com/in/emily-priyadarshini-013681253/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -10,9 +6,12 @@
 
 <img src="https://komarev.com/ghpvc/?username=EmilyPriyadarshini&style=flat-square&color=blue" alt=""/>
 
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/7WrjgQ21tan8cuyxMX/giphy.gif" width="100"/>
+</div>
+
 <h1 align="center">
-  Hello World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  Hello World :)
 </h1>
 
 ---
@@ -20,20 +19,18 @@
 ### About Me :
 Undergraduate at The Indian Institute of Science Education & Research, Pune, India.
 
-- :woman_student: My academic interests involve studying Applied Mathematics, particularly Probability and Statistics, Combinatorics, and Data Science.
-
-- :robot: Exploring applications of Electronics in Automation and Robotics.
-
+- I am enthusiastic about Cryptology- particularly Private-Key Cryptography and Quantum Cryptography -and Blockchain- Bitcoin and Ethereum.
+- I also explore applications of Electronics in Automation and Robotics.
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX"  alt="LaTeX" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino"  alt="Arduino" width="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++"  alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"  alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/latex/latex-original.svg" title="LaTeX"  alt="LaTeX" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/solidity/solidity-original.svg" title="Solidity"  alt="Solidity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="Arduino"  alt="Arduino" width="40"/>&nbsp;
 </div>
 
 ---
