@@ -30,3 +30,5 @@ I am a postgraduate from IISER Pune, India with a Master's in Mathematics. I am 
 
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=EmilyPriyadarshini&theme=dark&background=000000)](https://git.io/streak-stats)
 </div>
+
+![GitHub Snake](https://raw.githubusercontent.com/EmilyPriyadarshini/EmilyPriyadarshini/output/snake.svg)
