@@ -32,4 +32,4 @@ I am a postgraduate from IISER Pune, India with a Master's in Mathematics. I am 
 </div>
 
 
-![GitHub Snake](https://raw.githubusercontent.com/EmilyPriyadarshini/EmilyPriyadarshini/output/snake.svg)
+![GitHub Snake](https://raw.githubusercontent.com/EmilyPriyadarshini/EmilyPriyadarshini/main/output/github-snake-dark.svg)
