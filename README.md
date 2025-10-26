@@ -7,14 +7,6 @@
 </h1>
 
 
-<div id="badges">
-  <a href="www.linkedin.com/in/emily-priyadarshini-013681253">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-
-### About Me
 I am a postgraduate from IISER Pune, India with a Master's in Mathematics. I am interested in using formal methods to study security vulnerabilities in smart contracts.
 
 ### Languages and Tools
