@@ -32,4 +32,4 @@ I am a postgraduate from IISER Pune, India with a Master's in Mathematics. I am 
 </div>
 
 
-[![GitHub Snake](github-snake.svg)](github-snake-dark.svg)
+[![GitHub Snake](github-snake.svg)](github-snake.svg)
