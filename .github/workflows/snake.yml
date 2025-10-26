@@ -1,23 +1,34 @@
-name: Generate GitHub Snake
+name: Generate Dark GitHub Snake
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # allows manual trigger
+  push:
+    branches: [main]
 
 jobs:
-  build-snake:
+  generate-snake:
     runs-on: ubuntu-latest
     steps:
+      # Step 1: Checkout repo
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Create dist folder
-        run: mkdir -p dist
+      # Step 2: Create output folder
+      - name: Create output folder
+        run: mkdir -p output
 
-      - name: Generate GitHub Snake
+      # Step 3: Generate dark GitHub Snake
+      - name: Generate Dark Snake
         uses: Platane/snk@v3
         with:
           github_user_name: EmilyPriyadarshini
-          outputs: |
-            dist/github-snake.svg
-            dist/github-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+          outputs: output/github-snake-dark.svg?palette=github-dark
+
+      # Step 4: Commit and push generated snake
+      - name: Commit & Push
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/github-snake-dark.svg
+          git commit -m "Update dark GitHub Snake [skip ci]" || echo "No changes to commit"
+          git push
