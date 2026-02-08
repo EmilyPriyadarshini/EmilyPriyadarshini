@@ -6,7 +6,6 @@
   hello world :)
 </h1>
 
-
 I am a PhD student at the University of Cagliari. I study security vulnerabilities in smart contracts.
 
 ![GitHub Snake](https://raw.githubusercontent.com/EmilyPriyadarshini/EmilyPriyadarshini/main/output/github-snake-dark.svg)
