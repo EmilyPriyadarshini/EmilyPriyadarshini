@@ -3,7 +3,7 @@
 </div>
 
 <h1 align="center">
-  Hello World :)
+  hello world :)
 </h1>
 
 
