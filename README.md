@@ -5,5 +5,3 @@
 <div align="center">
   hello world :)
 </div>
-
-![GitHub Snake](https://raw.githubusercontent.com/EmilyPriyadarshini/EmilyPriyadarshini/main/output/github-snake-dark.svg)
